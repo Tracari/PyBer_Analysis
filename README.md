@@ -36,7 +36,7 @@ V. Isualize, The CEO  of Pyber, a ride-sharing app company valued at $2.3 billio
 <sub>*The max, median, and min for the number of drivers for each city type</sub>
 
 
-##### Results
+### Results
 <img width="620" alt="Screen Shot 2022-06-15 at 2 48 48 PM" src="https://user-images.githubusercontent.com/105556091/173964608-5e66c2c5-1395-49d2-bb8d-2cab1959a2b0.png">
 
 Rural Cities:
@@ -53,7 +53,7 @@ Urban Cities:
   - Having the highest recorded total rides of 1,625 and almost 1.5 times as many drivers, 2,405, 
   - Urban cities racked up nearly $39,854.38 in total fares from January to May of 2019. 
 
-###### Summary
+## Summary
 
 A few recommendations that will balance out the city type disparaties: 
   - Maintain the metrics for the Suburban and Rural cities. These cities are performing efficiently.
